@@ -6,6 +6,7 @@ require 'kconv'
 Bundler.require
 require 'twitter'
 require 'clockwork'
+require 'koala'
 
 module Clockwork
   ACCOUNT_NAME = ['hinabitter', 'coconatsu5572']
